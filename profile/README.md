@@ -3,13 +3,10 @@
   <img src="https://github.com/Pentulz/.github/blob/main/public/images/logo.png?raw=true" alt="Pentulz Logo" width="150"/>
 </p>
 
-<h1 align="center">Pentulz</h1>
-
 <p align="center">
   Orchestrate your audits across networks and unify the results in one place.
 </p>
 
----
 
 ## What is Pentulz?
 
@@ -21,9 +18,12 @@ Pentulz is a platform that **orchestrates pentest tools on distributed agents** 
 
 **Impact:** faster audits, fewer errors, more value from security engagements.
 
----
 
 ## Main Repositories
+
+The main repository is [Pentulz](https://github.com/Pentulz/Pentulz).
+
+The following repositories are also part of the Pentulz ecosystem (one repository for each part of the tool):
 
 | Repository | Description | Link |
 |------------|-------------|------|
@@ -32,7 +32,7 @@ Pentulz is a platform that **orchestrates pentest tools on distributed agents** 
 | Frontend | Web interface to visualize and export findings | [Repo](https://github.com/Pentulz/frontend) |
 
 
----
+
 
 ## Tech Stack
 
@@ -40,7 +40,7 @@ Pentulz is a platform that **orchestrates pentest tools on distributed agents** 
 - **Backend:** Python, FastAPI, PostgreSQL, ORM  
 - **Frontend:** Nuxt (Vue), responsive UI  
 
----
+
 
 ## Learn More
 
